@@ -53,7 +53,7 @@ Status: En desarrollo
 
 ---
 
-### Pizzería Control ERP
+### [Pizzería Control ERP](https://github.com/edHash/Pizzeria-Control-ERP)
 
 Un sistema administrativo desarrollado para controlar el proceso completo de una pizzería.
 
@@ -79,7 +79,7 @@ El sistema incluye:
 `PHP` `CodeIgniter` `MySQL` `HTML` `CSS` `JavaScript`
 
 ```text
-Status: Preparando versión pública
+Status: Publicado
 ```
 
 ---

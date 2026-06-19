@@ -79,7 +79,7 @@ El sistema incluye:
 `PHP` `CodeIgniter` `MySQL` `HTML` `CSS` `JavaScript`
 
 ```text
-Status: Publicado
+Status: Publicado — v1.0.0 en preparación
 ```
 
 ---

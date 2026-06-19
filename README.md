@@ -29,28 +29,35 @@ Cada proyecto representa un problema real, una decisión técnica o algo que nec
 
 ## Proyectos principales
 
-### UniAvisos
+### [UniAvisos — Case Study](https://github.com/edHash/UniAvisos-Case-Study)
 
-Una aplicación Android diseñada para administrar y distribuir avisos mediante departamentos dinámicos, suscripciones y notificaciones.
+Caso de estudio técnico que documenta la evolución de una aplicación Android oficial para la distribución de avisos universitarios.
 
-El sistema integra:
+El repositorio presenta el proceso desde las primeras versiones Alpha hasta la Beta 4.3, incluyendo:
 
-* Departamentos administrados desde la nube
-* Avisos cargados en tiempo real
-* Suscripciones personalizadas
-* Notificaciones mediante Firebase Cloud Messaging
-* Panel provisional de administración
-* Optimización de listeners y consultas
-* Planeación de almacenamiento local, roles y escalabilidad
+* Transición de un prototipo local a una arquitectura conectada
+* Desarrollo Android con Kotlin y Jetpack Compose
+* Integración con servicios remotos y notificaciones
+* Preferencias y personalización local
+* Panel administrativo provisional para pruebas
+* Validaciones funcionales y de extremo a extremo
+* Optimización de listeners y operaciones remotas
+* Arquitectura, modelo operativo, seguridad y roadmap
 
-**Tecnologías**
+Por confidencialidad institucional, el código fuente, las configuraciones internas y las capturas no autorizadas permanecen fuera de la publicación.
 
-`Kotlin` `Jetpack Compose` `Firebase Firestore` `Firebase Cloud Messaging`
+**Tecnologías y áreas**
+
+`Kotlin` `Jetpack Compose` `Firebase` `Firestore` `FCM` `Android` `Software Architecture`
 
 ```text
-Status: En desarrollo
-```
+[ PROJECT STATUS ]
 
+Case study: Publicado — v1.0.0
+Application stage: Beta 4.3
+Source code: Restricted
+Official screenshots: Pending authorization
+```
 ---
 
 Status: Publicado — [v1.0.0](https://github.com/edHash/Pizzeria-Control-ERP/releases/tag/v1.0.0)

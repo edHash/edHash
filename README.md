@@ -88,6 +88,31 @@ El sistema incluye:
 ```text
 Status: Publicado — v1.0.0
 ```
+---
+
+### [edHash PatternForge](https://github.com/edHash/edhash-patternforge)
+
+Herramienta de terminal desarrollada en Python para generación controlada de patrones, estimación de almacenamiento y flujos de auditoría defensiva autorizada.
+
+El proyecto está pensado para laboratorios técnicos, análisis de patrones, documentación de comportamiento y prácticas de seguridad aplicada en entornos controlados.
+
+Incluye:
+
+* Generación de combinaciones y patrones personalizados
+* Estimación de peso antes de crear archivos
+* Modos de generación por cantidad o tamaño aproximado
+* Flujo orientado a auditoría técnica
+* Reportes locales
+* Ejecución completamente local desde terminal
+* Documentación técnica en `docs/`
+
+**Tecnologías y áreas**
+
+`Python` `PowerShell` `Terminal` `Pattern Generation` `Security Lab` `Technical Documentation`
+
+```text
+Status: Publicado — v1.0.0
+```
 
 ---
 

@@ -144,7 +144,7 @@ Status: En evolución
 
 ### Desarrollo
 
-`Kotlin` `Jetpack Compose` `PHP` `CodeIgniter` `JavaScript` `React`
+`Python` `Kotlin` `Jetpack Compose` `PHP` `CodeIgniter` `JavaScript` `React`
 
 ### Datos y servicios
 
@@ -152,10 +152,12 @@ Status: En evolución
 
 ### Entornos y herramientas
 
-`Android Studio` `Visual Studio Code` `Git` `GitHub` `XAMPP` `Figma`
+`Android Studio` `Visual Studio Code` `Git` `GitHub` `PowerShell` `Terminal` `XAMPP` `Figma`
 
 ### Otras áreas
 
+* Fundamentos de ciberseguridad
+* Documentación técnica
 * Soporte y diagnóstico técnico
 * Mantenimiento de equipos
 * Redes y conectividad

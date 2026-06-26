@@ -113,6 +113,41 @@ Incluye:
 ```text
 Status: Publicado — v1.0.0
 ```
+---
+
+### [edHash Pico Bad](https://github.com/edHash/edhash-pico-bad)
+
+Laboratorio educativo de automatización USB HID construido con Raspberry Pi Pico y CircuitPython.
+
+El proyecto demuestra cómo una placa de bajo costo puede comportarse como un teclado USB dentro de un entorno controlado, técnico y educativo.
+
+No se trata de magia, hardware costoso ni herramientas de caja negra.
+
+Se trata de entender el concepto: si un sistema confía en un dispositivo como teclado, ese dispositivo puede escribir.
+
+Incluye:
+
+* Emulación de teclado USB HID
+* Automatización controlada de entrada
+* Lectura de archivos `.txt` desde la carpeta `mensaje/`
+* Flujo basado en CircuitPython
+* Documentación técnica en `docs/`
+* Enfoque educativo sobre dispositivos de entrada confiables
+* Identidad edHash con sátira técnica
+
+**Tecnologías y áreas**
+
+`Raspberry Pi Pico` `CircuitPython` `USB HID` `Hardware Security` `Keyboard Automation` `Security Lab`
+
+```text
+[ PROJECT STATUS ]
+
+Release: v1.0.0
+Mode: Controlled lab
+Hardware: Raspberry Pi Pico
+Runtime: CircuitPython
+Magic: Not found
+```
 
 ---
 
@@ -144,7 +179,7 @@ Status: En evolución
 
 ### Desarrollo
 
-`Python` `Kotlin` `Jetpack Compose` `PHP` `CodeIgniter` `JavaScript` `React`
+`Python` `CircuitPython` `Kotlin` `Jetpack Compose` `PHP` `CodeIgniter` `JavaScript` `React`
 
 ### Datos y servicios
 
@@ -152,7 +187,7 @@ Status: En evolución
 
 ### Entornos y herramientas
 
-`Android Studio` `Visual Studio Code` `Git` `GitHub` `PowerShell` `Terminal` `XAMPP` `Figma`
+`Android Studio` `Visual Studio Code` `Git` `GitHub` `PowerShell` `Terminal` `XAMPP` `Figma` `Raspberry Pi Pico`
 
 ### Otras áreas
 
@@ -163,6 +198,8 @@ Status: En evolución
 * Redes y conectividad
 * Análisis de sistemas
 * Automatización
+* Automatización con hardware
+* Seguridad de dispositivos de entrada
 * Fundamentos de ciberseguridad
 * Documentación técnica
 
